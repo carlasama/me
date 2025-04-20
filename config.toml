@@ -1,0 +1,8 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'pt-br'
+title = 'about me'
+theme = 'risotto'
+
+[params]
+  description = "I'm a front-end developer and this is my portfolio!"
+  accent = "windows-95"
