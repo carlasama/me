@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on about</title>
+    <title>blog on carla</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on about</description>
+    <description>Recent content in blog on carla</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 26 May 2024 10:13:13 -0300</lastBuildDate>

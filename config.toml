@@ -1,6 +1,6 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'pt-br'
-title = 'about'
+title = 'carla'
 theme = 'risotto'
 
 [params]
