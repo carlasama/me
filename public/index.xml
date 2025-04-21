@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>carla samaniego on carla</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/me/</link>
     <description>Recent content in carla samaniego on carla</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 26 May 2024 10:13:13 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
-      <link>http://localhost:1313/blog/first-post/</link>
+      <link>http://localhost:1313/me/blog/first-post/</link>
       <pubDate>Sun, 26 May 2024 10:13:13 -0300</pubDate>
-      <guid>http://localhost:1313/blog/first-post/</guid>
+      <guid>http://localhost:1313/me/blog/first-post/</guid>
       <description>&lt;p&gt;Eu sou um teste&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/me/about/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/me/about/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;I’m a Brazilian-Canadian senior software engineer who loves the idea of destroying all the gatekeeping that exists around software. I’m particularly passionate about making very complex systems sound so simple that a person can only think: “is that all?”&lt;/p&gt;&#xA;&lt;p&gt;I majored in computer science at University of Campinas and worked on the debugger for Visual Studio at Microsoft for 6 years. I’m based in Vancouver.&lt;/p&gt;&#xA;&lt;p&gt;I’m currently working on NEVERWAY and a game engine as co-founder at Coldblood Inc. It’s been really fun!!!!&lt;/p&gt;</description>
     </item>
     <item>
       <title>projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:1313/me/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:1313/me/projects/</guid>
       <description>&lt;h1 id=&#34;persepolis&#34;&gt;persepolis&lt;/h1&gt;&#xA;&lt;p&gt;built the persepolis project&amp;rsquo;s front-end with vue.js and tailwind css, turning UX designs into a responsive website that communicates its mission and social relevance.&amp;quot;&lt;/p&gt;&#xA;&lt;p&gt;🔗 &lt;a href=&#34;https://persepolisescola.com/&#34;&gt;view project&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

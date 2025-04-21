@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://carlasama.github.io/me/'
 languageCode = 'pt-br'
 title = 'carla'
 theme = 'risotto'
