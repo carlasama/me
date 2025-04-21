@@ -5,8 +5,14 @@ theme = 'risotto'
 
 [params]
   description = "I'm a front-end developer and this is my portfolio!"
-  palette = "windows-95"
   showReadingTime = true
+  theme.palette = "windows-95"
+  custom_css = ["css/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [[menu.main]]
   identifier = "projects"
@@ -22,10 +28,14 @@ theme = 'risotto'
 
 # Sidebar: about/bio (resumo para a sidebar)
 [params.about]
-title = "links"
-description = "feel free to get in touch!"
-logo = "📁"  # Você pode usar um emoji ou uma imagem como logo
-# logo_image = "https://example.com/logo.png"
+title = "feel free to get in touch!"
+description = """
+<video autoplay muted loop playsinline style="width: 70%; border-radius: 8px; margin-top: 1rem;">
+  <source src="https://va.media.tumblr.com/tumblr_rtocz2y1QN1zh70hn_720.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+"""
+
 
 # Sidebar: social links
 [[params.socialLinks]]

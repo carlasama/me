@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>carla samaniego on carla</title>
+    <title>about on carla</title>
     <link>https://carlasama.github.io/me/</link>
-    <description>Recent content in carla samaniego on carla</description>
+    <description>Recent content in about on carla</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 26 May 2024 10:13:13 -0300</lastBuildDate>
     <atom:link href="https://carlasama.github.io/me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First post</title>
+      <title>My Journey as a Developer: Learning, Fun, and Challenges with ADHD</title>
       <link>https://carlasama.github.io/me/blog/first-post/</link>
       <pubDate>Sun, 26 May 2024 10:13:13 -0300</pubDate>
       <guid>https://carlasama.github.io/me/blog/first-post/</guid>
-      <description>&lt;p&gt;Eu sou um teste&lt;/p&gt;</description>
+      <description>&lt;p&gt;Being a developer is a rollercoaster of emotions. Some days, everything clicks, and it feels like I’m on top of the world. Other days, I struggle to keep my focus and find myself overwhelmed by the endless learning and constant deadlines. As someone with ADHD, it’s a journey full of both excitement and challenges.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-thrill-of-learning-and-growing&#34;&gt;The Thrill of Learning and Growing&lt;/h2&gt;&#xA;&lt;p&gt;One thing that truly excites me about being a developer is the never-ending learning process. There’s always something new—whether it’s a new framework, a cool tool, or an entirely new paradigm to explore. The problem-solving aspect of coding is like solving puzzles, and when you crack one, it’s incredibly satisfying. I love the idea that every line of code I write brings me closer to building something meaningful, whether it’s for a personal project or a client.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
@@ -27,7 +27,7 @@
       <link>https://carlasama.github.io/me/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://carlasama.github.io/me/projects/</guid>
-      <description>&lt;h1 id=&#34;persepolis&#34;&gt;persepolis&lt;/h1&gt;&#xA;&lt;p&gt;built the persepolis project&amp;rsquo;s front-end with vue.js and tailwind css, turning UX designs into a responsive website that communicates its mission and social relevance.&amp;quot;&lt;/p&gt;&#xA;&lt;p&gt;🔗 &lt;a href=&#34;https://persepolisescola.com/&#34;&gt;view project&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;persepolis&#34;&gt;&lt;a href=&#34;https://persepolisescola.com/&#34;&gt;Persepolis&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Built the Persepolis project&amp;rsquo;s front-end with Vue.js and Tailwind CSS, turning UX designs into a responsive website that communicates its mission and social relevance.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
