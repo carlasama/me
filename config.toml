@@ -1,0 +1,44 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'pt-br'
+title = 'about'
+theme = 'risotto'
+
+[params]
+  description = "I'm a front-end developer and this is my portfolio!"
+  palette = "windows-95"
+  showReadingTime = true
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 3
+
+# Sidebar: about/bio (resumo para a sidebar)
+[params.about]
+title = "links"
+description = "feel free to get in touch!"
+logo = "📁"  # Você pode usar um emoji ou uma imagem como logo
+# logo_image = "https://example.com/logo.png"
+
+# Sidebar: social links
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/carlasama"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:carlavxsamaniego@gmail.com"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/carla-sama/"
