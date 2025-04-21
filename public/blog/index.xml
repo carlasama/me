@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on carla</title>
-    <link>http://localhost:1313/me/blog/</link>
+    <link>https://carlasama.github.io/me/blog/</link>
     <description>Recent content in blog on carla</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 26 May 2024 10:13:13 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://carlasama.github.io/me/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
-      <link>http://localhost:1313/me/blog/first-post/</link>
+      <link>https://carlasama.github.io/me/blog/first-post/</link>
       <pubDate>Sun, 26 May 2024 10:13:13 -0300</pubDate>
-      <guid>http://localhost:1313/me/blog/first-post/</guid>
+      <guid>https://carlasama.github.io/me/blog/first-post/</guid>
       <description>&lt;p&gt;Eu sou um teste&lt;/p&gt;</description>
     </item>
   </channel>

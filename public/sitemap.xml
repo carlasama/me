@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/me/blog/</loc>
+    <loc>https://carlasama.github.io/me/blog/</loc>
     <lastmod>2024-05-26T10:13:13-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/me/</loc>
+    <loc>https://carlasama.github.io/me/</loc>
     <lastmod>2024-05-26T10:13:13-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/me/blog/first-post/</loc>
+    <loc>https://carlasama.github.io/me/blog/first-post/</loc>
     <lastmod>2024-05-26T10:13:13-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/me/about/</loc>
+    <loc>https://carlasama.github.io/me/about/</loc>
     <lastmod>2023-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/me/categories/</loc>
+    <loc>https://carlasama.github.io/me/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/me/projects/</loc>
+    <loc>https://carlasama.github.io/me/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/me/tags/</loc>
+    <loc>https://carlasama.github.io/me/tags/</loc>
   </url>
 </urlset>
